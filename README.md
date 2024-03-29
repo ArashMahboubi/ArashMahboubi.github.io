@@ -1,8 +1,1 @@
-# arashmahboubi.github.io
-Arash Mahboubi Academic Portfolio 
-fetch('https://example.com')
-  .then(response => response.text())
-  .then(html => {
-    document.getElementById('content').innerHTML = html;
-  })
-  .catch(error => console.error('Error loading the page: ', error));
+<meta http-equiv="refresh" content="0; URL='https://sites.google.com/view/arash-mahboubi/home'" />
